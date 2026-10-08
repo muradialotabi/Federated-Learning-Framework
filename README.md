@@ -2,8 +2,7 @@ Horizontal Federated Learning
 
 I’m excited to share my research project on privacy-preserving misbehavior detection in Vehicular Ad-Hoc Networks (VANETs) using Horizontal Federated Learning (HFL).
 
-This work investigates how federated learning can support collaborative detection of malicious behavior in vehicular networks while keeping data distributed across clients.
-
+This work investigates how federated learning can support collaborative detection of malicious behavior in vehicular networks while keeping data distributed across clients implemented using Python 3.12 and TensorFlow 2.19.0 with the Keras API.
 🔬 What this project explores:
 
 Centralized vs. Federated Learning: Comparing learning approaches for vehicular misbehavior detection.
