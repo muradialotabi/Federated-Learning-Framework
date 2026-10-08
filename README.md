@@ -1,4 +1,4 @@
-orizontal Federated Learning
+Horizontal Federated Learning
 
 I’m excited to share my research project on privacy-preserving misbehavior detection in Vehicular Ad-Hoc Networks (VANETs) using Horizontal Federated Learning (HFL).
 
